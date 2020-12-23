@@ -1,0 +1,21 @@
+{
+  "name": "kc-screen-data",
+  "version": "1.0.1",
+  "description": "[browser] Obtain screen data.",
+  "main": "screen-data.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-screen-data.git"
+  },
+  "keywords": [
+    "obtain",
+    "screen",
+    "data"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-screen-data/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-screen-data"
+}
